@@ -1,0 +1,34 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.first{
+    height:5vh;
+    background-color: #dce0e9;
+    width: 100vw;
+}
+
+.second{
+    height: 10vh;
+    background-color: #798292;
+}
+
+
+
+.left{
+    background-color: #385795;
+    width: 20vw;
+    height: 70vh;
+}
+
+.right{
+    background-color: #4d586e;
+    width: 85vw;
+    height: 70vh;
+}
+
+.bottom{
+    background-color: #510811;
+    width: 100vw;
+    height: 6vh;
+}
